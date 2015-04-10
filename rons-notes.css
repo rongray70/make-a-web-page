@@ -1,0 +1,17 @@
+p {
+    font-family: sans-serif;
+}
+
+.title {
+    text-align: left;
+    font-weight: bold;
+    font-size: 250%;
+    background-color: blue;
+    color: white;
+}
+
+.notes {
+    text-align: left;
+    font-size: 100%;
+    color: black;
+}
